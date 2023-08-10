@@ -1,0 +1,11 @@
+CREATE TABLE emp_details ( Name VARCHAR(25), Age INT, Sex CHAR(1), Doj DATE, City VARCHAR(15), Salary FLOAT);
+DESCRIBE emp_details;
+
+INSERT INTO emp_details
+VALUES ("Jimmy", 35, "M", "2005-05-30", "Chicago", 70000),
+("Shane", 30, "M", "1999-06-25", "Seattle", 55000),
+("Marry", 28, "F", "2009-03-10", "Boston", 62000),
+("Dwayne", 37, "M", "2011-07-12", "Austin", 57000),
+("Sara", 32, "F", "2017-10-27", "New York", 72000),
+("Ammy", 35, "F", "2014-12-20", "Seattle", 80000);
+
