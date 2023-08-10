@@ -10,6 +10,6 @@ VALUES ("Jimmy", 35, "M", "2005-05-30", "Chicago", 70000),
 ("Ammy", 35, "F", "2014-12-20", "Seattle", 80000)
 ("Kevin", 24, "M", "2019-09-25", "Alabama", 88000)
 ("Reece", 27, "M", "2010-02-03", "Arizona", 105000);
-#Creates table with the above data
+#Creates table with the data above
 
 
